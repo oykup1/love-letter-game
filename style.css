@@ -138,7 +138,7 @@ body::after {
   margin: 16px 0;
   text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
   letter-spacing: 1px;
-  word-spacing: 30;
+  word-spacing: 50;
 }
 
 .popup-content {

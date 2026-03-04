@@ -193,6 +193,7 @@ body::after {
   box-shadow: 0 4px 12px rgba(212, 102, 139, 0.3);
   transition: none;
   image-rendering: pixelated;
+  word-spacing: 10;
 }
 
 .start-button:hover {

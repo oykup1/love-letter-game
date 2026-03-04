@@ -97,7 +97,7 @@ document.getElementById('start-game-btn').addEventListener('click', function() {
 });
 // Copy link button functionality
 document.getElementById('copy-link-btn').addEventListener('click', function() {
-  const link = 'valentines-world-ui.vercel.app';
+  const link = 'love-letter-ui.vercel.app';
   navigator.clipboard.writeText(link).then(() => {
     const btn = document.getElementById('copy-link-btn');
     const originalText = btn.textContent;
